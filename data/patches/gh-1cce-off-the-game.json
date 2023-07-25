@@ -1,0 +1,96 @@
+{
+	"id": -1,
+	"name": "OFF the game",
+	"description": "OFF is a videogame developed by Mortis Ghost that released in 2008 and has since gained a small cult following. A portrait of the game's main protagonist, The Batter, is displayed on the left; the logo is displayed in the middle; the sprite of a supporting character, Zacharie, is displayed on the right.",
+	"links": {
+		"website": [
+			"https://twitter.com/MortisGhost",
+			"https://en.wikipedia.org/wiki/Off_(video_game)"
+		],
+		"subreddit": [
+			"OFFthegame"
+		],
+		"discord": [
+			"JQp3VvBBnw",
+			"G9q2T6kgbB"
+		]
+	},
+	"path": {
+		"253-254": [
+			[
+				-103,
+				-521
+			],
+			[
+				-103,
+				-504
+			],
+			[
+				-90,
+				-498
+			],
+			[
+				-85,
+				-498
+			],
+			[
+				-85,
+				-500
+			],
+			[
+				-79,
+				-500
+			],
+			[
+				-79,
+				-502
+			],
+			[
+				-67,
+				-502
+			],
+			[
+				-67,
+				-522
+			],
+			[
+				-79,
+				-522
+			],
+			[
+				-79,
+				-517
+			],
+			[
+				-83,
+				-517
+			],
+			[
+				-83,
+				-522
+			],
+			[
+				-92,
+				-522
+			],
+			[
+				-94,
+				-524
+			],
+			[
+				-99,
+				-524
+			],
+			[
+				-103,
+				-521
+			]
+		]
+	},
+	"center": {
+		"253-254": [
+			-92,
+			-511
+		]
+	}
+}
